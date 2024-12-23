@@ -1,6 +1,3 @@
-Here’s your updated README with detailed steps for cloning the repository:
-
----
 
 # README: Setting Up a Python Virtual Environment and Running the Script
 
