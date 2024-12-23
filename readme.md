@@ -76,3 +76,6 @@ deactivate
 ---
 
 Now you’re ready to clone, set up, and run your Python project! 🎉
+
+## Steps To Run the Project
+
