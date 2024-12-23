@@ -77,5 +77,27 @@ deactivate
 
 Now you’re ready to clone, set up, and run your Python project! 🎉
 
-## Steps To Run the Project
+Here’s an improved version of your markdown with better formatting, clearer instructions, and consistent style:
 
+---
+
+# Steps to Run the Project
+
+1. **Add the Path to the Keywords CSV File**  
+   Update the script with the path to your keywords CSV file:  
+   ![Keywords CSV Path](https://github.com/user-attachments/assets/93e2c3b0-5d15-48a0-8b46-72be638512f6)
+
+2. **Copy the Article and Paste It**  
+   Provide the article text in the appropriate section of the script:  
+   ![Article Input](https://github.com/user-attachments/assets/7435c293-21d0-461f-afd6-b6c575f9a798)
+
+3. **Run the Script**  
+   Execute the script using the following command:
+   ```bash
+   python main.py
+   ```
+
+4. **View the Output**  
+   After running the script, a file named `Output.csv` will be created in the project directory. This file contains the results.
+
+---
